@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jX8fJziubh20ioXZ0QVC6Ax3iuflEfYkVmm0cBJziJkUC22/1sLCMoJSlqktBF/lsZeF63IhGKYliSVFIIEbGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denme\\OneDrive\\Рабочий стол\\labpp2\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denme\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\denme\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\denme\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\denme\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\denme\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\denme\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\denme\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\denme\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512",
+    "C:\\Users\\denme\\.nuget\\packages\\nlog.extensions.logging\\5.0.4\\nlog.extensions.logging.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
