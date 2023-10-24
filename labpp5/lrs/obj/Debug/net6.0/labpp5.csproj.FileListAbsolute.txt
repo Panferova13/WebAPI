@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\labpp-LR5\labpp5\labpp5\lrs\obj\Debug\net6.0\labpp5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\labpp-LR5\labpp5\labpp5\lrs\obj\Debug\net6.0\labpp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\labpp-LR5\labpp5\labpp5\lrs\obj\Debug\net6.0\labpp5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\labpp-LR5\labpp5\labpp5\lrs\obj\Debug\net6.0\labpp5.AssemblyInfo.cs
+C:\Users\user\Desktop\labpp-LR5\labpp5\labpp5\lrs\obj\Debug\net6.0\labpp5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labpp-LR5\labpp5\labpp5\lrs\obj\Debug\net6.0\labpp5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\labpp-LR5\labpp5\labpp5\lrs\obj\Debug\net6.0\labpp5.MvcApplicationPartsAssemblyInfo.cache

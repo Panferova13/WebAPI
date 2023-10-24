@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5371a502-6c9c-4d18-b472-4abb08b3aeba": {
+      "ProjectGuid": "5371a502-6c9c-4d18-b472-4abb08b3aeba",
+      "DisplayName": "labpp5",
+      "ColorIndex": 0
+    },
+    "e1408e12-1eda-4799-9f1f-9b039040abe1": {
+      "ProjectGuid": "e1408e12-1eda-4799-9f1f-9b039040abe1",
+      "DisplayName": "Contracts",
+      "ColorIndex": 1
+    },
+    "870695fa-88f0-463e-b7ce-7b3a6f2dee82": {
+      "ProjectGuid": "870695fa-88f0-463e-b7ce-7b3a6f2dee82",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "f159483e-1e72-4094-b55f-9a99ed7d8387": {
+      "ProjectGuid": "f159483e-1e72-4094-b55f-9a99ed7d8387",
+      "DisplayName": "Repository",
+      "ColorIndex": 3
+    },
+    "71c97a4e-411d-467b-aef5-290e56b1e603": {
+      "ProjectGuid": "71c97a4e-411d-467b-aef5-290e56b1e603",
+      "DisplayName": "LoggerService",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
